@@ -1,1 +1,2 @@
 INSERT INTO [dbo].[FeeGroup] ([FeeGroupKey], [CreateDate], [ChangeDate], [ChangeBy], [FeeGroup], [FeeGroupCode]) VALUES (1, '2018-07-16 09:52:02.400', '2019-05-24 16:58:37.557', N'NEXTESTATE\test', N'Test Fee Group', 'TFG       ')
+INSERT INTO [dbo].[FeeGroup] ([FeeGroupKey], [CreateDate], [ChangeDate], [ChangeBy], [FeeGroup], [FeeGroupCode]) VALUES (27, '2024-11-22 12:58:24.363', '2024-11-22 12:58:24.363', N'NEXTESTATE\test', N'WMT Non Perso Fee Group', 'WMNPFG    ')
