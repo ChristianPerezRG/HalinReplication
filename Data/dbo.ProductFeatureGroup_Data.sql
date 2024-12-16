@@ -1,0 +1,1 @@
+INSERT INTO [dbo].[ProductFeatureGroup] ([ProductFeatureGroupKey], [CreateDate], [ChangeDate], [ChangeBy], [ProductKey], [FeatureGroupKey], [IsStandard], [FeeGroupKey], [LimitGroupKey], [ProductTierKey]) VALUES (1, '2018-07-16 10:00:01.820', '2018-07-16 10:00:01.820', N'NEXTESTATE\test', 3, 1, 1, 1, NULL, NULL)
